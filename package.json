@@ -13,7 +13,7 @@
     "alpinejs": "^2.6.0",
     "cross-env": "^7.0.2",
     "js-yaml": "^3.14.0",
-    "luxon": "^1.25.0",
+    "luxon": "^2.0.1",
     "npm-run-all": "^4.1.5",
     "postcss-clean": "^1.1.0",
     "postcss-cli": "^7.1.1",
