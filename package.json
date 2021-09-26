@@ -7,17 +7,17 @@
     "build": "cross-env NODE_ENV=production eleventy && cross-env NODE_ENV=production postcss src/static/css/tailwind.css --o _site/static/css/style.css"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^0.12.1",
-    "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.1",
-    "@tailwindcss/typography": "^0.4.1",
-    "alpinejs": "^2.6.0",
-    "cross-env": "^7.0.2",
-    "js-yaml": "^4.1.0",
-    "luxon": "^1.25.0",
-    "npm-run-all": "^4.1.5",
-    "postcss-clean": "^1.1.0",
-    "postcss-cli": "^9.0.0",
-    "prismjs": "^1.21.0",
-    "tailwindcss": "^2.2.15"
+    "@11ty/eleventy": "0.12.1",
+    "@11ty/eleventy-plugin-syntaxhighlight": "3.1.2",
+    "@tailwindcss/typography": "0.4.1",
+    "alpinejs": "2.8.2",
+    "cross-env": "7.0.3",
+    "js-yaml": "4.1.0",
+    "luxon": "1.28.0",
+    "npm-run-all": "4.1.5",
+    "postcss-clean": "1.2.2",
+    "postcss-cli": "9.0.0",
+    "prismjs": "1.25.0",
+    "tailwindcss": "2.2.15"
   }
 }
